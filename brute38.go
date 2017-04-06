@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/cculianu/brute38/bip38"
+	"github.com/pjyken/brute38/bip38"
 	"github.com/docopt/docopt.go"
 	"log"
 	"runtime"
